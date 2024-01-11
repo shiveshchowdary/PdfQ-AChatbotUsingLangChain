@@ -18,8 +18,8 @@ This application allows users to ask questions about a PDF document using the Ec
 
 ## Demo Images
 
-- `image1.png`
-- `image2.png`
+![Application Preview](image1.png)
+!(image2.png)
 
 These images capture moments from a demo using a resume PDF as an example. You can see the interaction with the application and how questions are asked and answered.
 
